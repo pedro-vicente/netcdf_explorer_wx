@@ -1,0 +1,26 @@
+/* XPM */
+static const char *const doc_blue_xpm[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 4 1 ",
+"  c black",
+". c #808000",
+"X c cyan",
+"o c None",
+/* pixels */
+"oo         ooooo",
+"oo XXXXXXX  oooo",
+"oo XXXXXXX . ooo",
+"oo XXXXXXX    oo",
+"oo XXXXXXX... oo",
+"oo X      XXX oo",
+"oo XXXXXXXXXX oo",
+"oo X        X oo",
+"oo XXXXXXXXXX oo",
+"oo X        X oo",
+"oo XXXXXXXXXX oo",
+"oo XX       X oo",
+"oo XXXXXXXXXX oo",
+"oo .......... oo",
+"oo            oo",
+"oooooooooooooooo"
+};
